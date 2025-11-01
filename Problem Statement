@@ -1,0 +1,46 @@
+1. Project Overview 
+Electric Vehicles (EVs) are becoming an essential part of the transition toward sustainable mobility.  
+However, one of the biggest challenges faced by EV owners is **range anxiety** — the fear that the vehicle will run out of charge before reaching the destination.  
+Our project focuses on addressing this issue by exploring how to **forecast the driving range of EVs** more accurately using data-driven approaches.  
+The first step of our project is to clearly **identify and define the problem statement** that will guide all upcoming research and development.
+
+2. Background Research  
+What is Range Anxiety?  
+Range anxiety is the concern or fear that an electric vehicle might not have enough battery charge to reach its destination or the next charging station.  
+Although EV technology has improved, external factors like terrain, temperature, driving habits, and load continue to impact range significantly.
+Why Is Range Forecasting Important?  
+- Builds user confidence in EVs  
+- Helps in efficient trip planning  
+- Reduces unexpected breakdowns  
+- Enhances the performance of energy management systems  
+Gaps in Existing Systems  
+- Dashboard estimates are not always accurate  
+- Real-time environmental factors are often ignored  
+- Lack of personalization based on driver behavior  
+
+3. Identified Problem Area  
+Despite advancements in EV technology, **accurate and adaptive range prediction** remains a major challenge.  
+Users need a reliable system that can provide **real-world, personalized range forecasts** based on multiple influencing factors such as battery capacity, efficiency, terrain, temperature, and driving style.
+
+4. Problem Statement  
+> **Problem Statement:**  
+> Electric Vehicle users often experience uncertainty about their driving range due to variations in temperature, terrain, driving behavior, and battery health.  
+>  
+> This project aims to research and develop a framework that can **forecast the real-world range of EVs** by analyzing various operational and environmental parameters — thereby reducing range anxiety and improving the overall EV experience.
+
+5. Scope of the Problem  
+| Area | Description |
+|------|--------------|
+|Domain| Electric Mobility / Sustainable Transportation |
+| Focus| Range Estimation and Prediction |
+|Impact| Enhances EV reliability, user trust, and energy efficiency |
+|Stakeholders| EV Manufacturers, Drivers, Fleet Operators, Policy Makers |
+
+ 6. Week 1 Outcomes  
+✅ Studied background and challenges of EV range estimation  
+✅ Identified the key issue — range anxiety  
+✅ Defined the clear problem statement for the project  
+✅ Prepared direction for Week 2 (Literature review & data exploration)
+
+ 7. References  
+1. IEA Global EV Outlook 2024    
